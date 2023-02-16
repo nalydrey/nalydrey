@@ -21,4 +21,4 @@
 <br/>
 <br/>
 
-### :point_down: Bellow you can see my projects :point_down:
+### :point_down: Below you can see my projects :point_down:
