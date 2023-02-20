@@ -21,4 +21,9 @@
 <br/>
 <br/>
 
+### :phone: How to reach me: [<img  src='https://cdn-icons-png.flaticon.com/512/179/179330.png' alt='Linkedin' width=30/>][linkedin]
+
 ### :point_down: Below you can see my projects :point_down:
+
+
+[linkedin]: https://www.linkedin.com/in/%D0%BE%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D0%B9-%D0%BD%D1%96%D0%BA%D0%BE%D0%BB%D0%B0%D1%94%D0%BD%D0%BA%D0%BE-17472825b/
