@@ -16,6 +16,7 @@
 <img align='left' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png' alt='HTML' width=30/>
 <img align='left' src='https://user-images.githubusercontent.com/112705866/212576928-1c3ba62d-c95c-4338-8311-e2376bf4176c.svg' alt='HTML' width=30/>
 <img align='left' src='https://avatars.githubusercontent.com/u/5155369?s=200&v=4' alt='HTML' width=30/>
+<img align='left' src='https://avatars.githubusercontent.com/u/9950313?s=40&v=4' alt='NodeJS' width=30/>
 
 <br/>
 <br/>
