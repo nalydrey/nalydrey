@@ -17,6 +17,12 @@
 <img align='left' src='https://user-images.githubusercontent.com/112705866/212576928-1c3ba62d-c95c-4338-8311-e2376bf4176c.svg' alt='HTML' width=30/>
 <img align='left' src='https://avatars.githubusercontent.com/u/5155369?s=200&v=4' alt='HTML' width=30/>
 <img align='left' src='https://avatars.githubusercontent.com/u/9950313?s=40&v=4' alt='NodeJS' width=30/>
+<img align='left' src='https://avatars.githubusercontent.com/u/5658226?s=40&v=4' alt='Express' width=30/>
+<img align='left' src='https://avatars.githubusercontent.com/u/45120?s=40&v=4' alt='MongoDB' width=30/>
+<img align='left' src='https://avatars.githubusercontent.com/u/33663932?s=40&v=4' alt='Material UI' width=30/>
+<img align='left' src='https://avatars.githubusercontent.com/u/67109815?s=40&v=4' alt='Tailwind CSS' width=30/>
+<img align='left' src='https://avatars.githubusercontent.com/u/6128107?s=40&v=4' alt='VUE' width=30/>
+
 
 <br/>
 <br/>
