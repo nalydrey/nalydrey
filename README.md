@@ -1,7 +1,7 @@
  # :wave: Hello, I'm Oleksiy! I'm Frontend Developer ! :sunglasses:
  
 
-*I like studying new technologies*
+*I enjoy learning about new technology*
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=15972D&width=435&lines=Get+try+and+you+will+have+success!)](https://git.io/typing-svg)
