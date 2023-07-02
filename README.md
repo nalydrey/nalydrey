@@ -1,4 +1,4 @@
- # :wave: Hello, I'm Oleksiy! I'm Front-end-developer ! :sunglasses:
+ # :wave: Hello, I'm Oleksiy! I'm Frontend Developer ! :sunglasses:
  
 
 *I like studying new technologies*
